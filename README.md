@@ -1,1 +1,1 @@
-# Spring-Xml-File
+# Hibernate-Persistence-File
